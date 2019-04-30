@@ -1,7 +1,7 @@
 # NSEPY: Time Series Analysis + Forecasting
 
 
-#### RedCarpet's internship assignment: https://pastebin.com/QDbSQPZg
+#### RedCarpet's internship assignment: https://pastebin.com/qRLdpWUu
 
 #### Dataset selection: Use: https://github.com/swapniljariwala/nsepy
 
