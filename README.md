@@ -9,7 +9,7 @@ Source OCLHV data for NSE stocks (INFY,TCS) between 2015-2016. Data level - Dail
 
 Source OCLHV data for NIFTY IT index. Data level - Daily.
 
->>> Libraries Required
+## Libraries Required
 
 '''
 bokeh
@@ -19,7 +19,7 @@ pandas
 Scikit-learn
 '''
 
->>> # problem:
+## problem:
 
 
 ### Part 1:
